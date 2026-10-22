@@ -1,0 +1,14 @@
+h1 {
+    color: #214F22;
+    border: 20px solid #14281F;
+    border-style: groove;
+    padding: 16px;
+    width: fit-content;
+}
+
+body {
+    color: #3F2216;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    background-color: #FFF3C1;
+}
